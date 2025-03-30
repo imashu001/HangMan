@@ -1,2 +1,0 @@
-# HangMan
-ReactJS | TypeScript | Vite 
